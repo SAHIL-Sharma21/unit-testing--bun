@@ -1,0 +1,17 @@
+// Bun Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`user feature fetched the data from the server 1`] = `
+{
+  "id": 1,
+  "lastLogin": "2025-06-08T16:37:22.567Z",
+  "name": "john Doe",
+  "preferences": {
+    "notifications": true,
+    "theme": "Dark",
+  },
+  "roles": [
+    "user",
+    "admin",
+  ],
+}
+`;
